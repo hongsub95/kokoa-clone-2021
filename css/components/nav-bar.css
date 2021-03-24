@@ -3,7 +3,7 @@
   bottom: 0px;
   width: 100%;
   background-color: #f9f9fa;
-  padding: 15px 40px;
+  padding: 12px 40px;
   box-sizing: border-box;
   border-top: 1px solid rgba(121, 121, 121, 0.3);
 }
@@ -17,27 +17,15 @@
 }
 .nav__notification {
   background-color: tomato;
-  width: 25px;
-  height: 25px;
-  border-radius: 12.5px;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
-  font-weight: 600;
+  font-weight: 500;
   position: absolute;
   left: 20px;
   bottom: 16.5px;
-}
-.nav_dot {
-  background-color: tomato;
-  width: 5px;
-  height: 5px;
-  border-radius: 2.5px;
-  display: flex;
-  justify-content: center;
-  align-self: center;
-  color: tomato;
-  position: absolute;
-  left: 35px;
 }
